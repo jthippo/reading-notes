@@ -10,4 +10,4 @@
 
 1. Well I inherently believe it so it's not too hard for me
 2. That said, what if I used growth mindset to believe my opinions on growth mindset could change?
-3. Oh no now I'm confused
+3. ~~Oh no now I'm confused~~
