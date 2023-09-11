@@ -1,7 +1,6 @@
 # reading-notes
 
-## What is growth mindset...
-to *me*?
+## What is growth mindset... to *me*?
 
 + Understanding we're all fluid beings who change over time
 + Information and skills have been attained before, they shall be attained again
