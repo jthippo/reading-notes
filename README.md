@@ -6,7 +6,7 @@
 
 + Understanding we're all fluid beings who change over time
 + Information and skills have been attained before, they shall be attained again
-+ At the end of Critters (1986) there was a giant Critter which was **great** growth mindset in my opinion
++ At the end of Critters (1986) the little Critters turned into a giant Critter which was **great** growth mindset in my opinion
 
 ### STOP THIS AND TELL ME HOW TO STAY IN GROWTH MINDSET
 
