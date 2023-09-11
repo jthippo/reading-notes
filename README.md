@@ -1,6 +1,6 @@
 # reading-notes
 
-## My name is Mike Foster ^technically it's Michael but only about two people call me that^
+## My name is Mike Foster. Hello.
 
 ### What is growth mindset... to *me*?
 
