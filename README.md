@@ -9,7 +9,6 @@ to *me*?
 
 ## STOP THIS AND TELL ME HOW TO STAY IN GROWTH MINDSET
 
-1. Well I inherently believe it so it's not too hard for me.
+1. Well I inherently believe it so it's not too hard for me
 2. That said, what if I used growth mindset to believe my opinions on growth mindset could change?
-3. Oh no now I'm confused.
-..* I may also need a nap.
+3. Oh no now I'm confused
