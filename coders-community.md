@@ -1,4 +1,4 @@
-# coders-community
+# coders-computer
 
 #### What are four important features to look for in a text editor?
 1. Code completion
