@@ -4,7 +4,7 @@
 1. Code completion
 2. Syntax highlighting
 3. Variety of themes
-4. Good selection of themes
+4. Good selection of extensions
 
 #### What do the following commands do?
 + pwd - print working directory
