@@ -8,9 +8,9 @@ Is that the royal "we" or "we" as in this class? I'll go with the latter: it's s
 
 #### What symbol will create a heading in Markdown?
 That would be the hash (#) symbol.
-### How many do you need to create the largest heading?
+##### How many do you need to create the largest heading?
 Just one.
-### How many do you need to create the smallest heading?
+##### How many do you need to create the smallest heading?
 Six.
 
 #### When making text bold or italicized for emphasis, it is best practice to use which symbol?
