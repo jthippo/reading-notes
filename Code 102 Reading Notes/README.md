@@ -1,7 +1,7 @@
 # reading-notes
 
 ## My name is Mike Foster. Hello.
-If you want to see my big face online, you must click [here](about.md).
+If you want to see my big face online, you must click [here](./about.md).
 
 ### What is growth mindset... to *me*?
 
