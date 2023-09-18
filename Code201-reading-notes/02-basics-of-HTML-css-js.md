@@ -11,7 +11,7 @@
 
 Six!
 
-#### What are some uses for the <sup> and <sub> elements?
+#### What are some uses for the < sup > and < sub > elements?
 
 Superscript and subscript can be used for writing dates and chemical formulae respectively.
 
@@ -33,20 +33,20 @@ It's less efficient to edit, read and understand. Separation of concerns!
 
 #### Review the block of code below and answer the following questions:
 
-_h2 {_
-_color: black;_
-_padding: 5px;_
+_h2 {_  
+_color: black;_  
+_padding: 5px;_  
 _}_
 
-###### What is representing the selector?
+##### What is representing the selector?
 
 h2
 
-###### Which components are the CSS declarations?
+##### Which components are the CSS declarations?
 
 color: black; and padding: 5px;
 
-###### Which components are considered properties?
+##### Which components are considered properties?
 
 color and padding
 
@@ -74,4 +74,4 @@ For functions where we want more than two potential outcomes.
 
 #### What is the difference between the logical operator && and ||?
 
-"and" and "or". && looks for where two conditions are true, || looks for where either condition is true.
+"and" looks for where two conditions are true, "or" looks for where either condition is true.
