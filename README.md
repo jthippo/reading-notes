@@ -2,14 +2,14 @@
 
 ## Code 102 Intro to Software Development
 
-[01 Learning markdown](./01-learning-markdown)
-[02 Coder's computer](./02-coders-computer)
-[03 Revisions and the cloud](./revisions-and-the-cloud)
-[04 Building structure with HTML](./structure-with-html)
-[05 Designing webpages with CSS](./design-with-css)
-[06 Building dynamic webpages with JS](./dynamic-pages-with-javascript)
-[07 Programming with JS](./programming-with-javascript)
-[08 Operators and loops](./operators-and-loops)
+* [01 Learning markdown](./01-learning-markdown)
+* [02 Coder's computer](./02-coders-computer)
+* [03 Revisions and the cloud](./revisions-and-the-cloud)
+* [04 Building structure with HTML](./structure-with-html)
+* [05 Designing webpages with CSS](./design-with-css)
+* [06 Building dynamic webpages with JS](./dynamic-pages-with-javascript)
+* [07 Programming with JS](./programming-with-javascript)
+* [08 Operators and loops](./operators-and-loops)
 
 
 ## My name is Mike Foster. Hello.
