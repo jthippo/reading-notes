@@ -14,6 +14,7 @@
 ## Code 102 Intro to Software Development
 
 - [01 Class 01 (102 recap)](./Code201-reading-notes/01-class-01)
+- [01 Basics of HTML, CSS and JS](./Code201-reading-notes/02-basics-of-HTML-css-js.md)
 
 ## My name is Mike Foster. Hello.
 
