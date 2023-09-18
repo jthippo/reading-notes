@@ -4,10 +4,10 @@
 
 #### Compose a short poem describing how HTTP sends data between computers.
 
-There once was a browser who requested copy of HTTP from server
-The server approved the request and sent client an OK message
-HTTP is sent in packets
-The browser pieces them together
+There once was a browser who requested copy of HTTP from server  
+The server approved the request and sent client an OK message  
+HTTP is sent in packets  
+The browser pieces them together  
 And then the client can access the webpage
 
 #### Describe how HTML, CSS, and JS files are “parsed” in the browser.
@@ -48,9 +48,9 @@ An article should make sense by itself, independent from the HTML (e.g. blog pos
 
 Search engines crawl web pages for keywords and other information, then compare that with the metadata to organise the page in search engine results pages. Metadata is a part of the search engine's language and helps them better understand the topic of web pages and content, and helps them display more relevant results.
 
-#### How is the <meta> HTML tag used when specifying metadata?
+#### How is the < meta > HTML tag used when specifying metadata?
 
-Metadata is information about data. <meta> tags always go inside the <head> element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
+Metadata is information about data. < meta > tags always go inside the < head > element, and are typically used to specify character set, page description, keywords, author of the document, and viewport settings.
 
 ### Miscellaneous
 
@@ -58,9 +58,9 @@ Metadata is information about data. <meta> tags always go inside the <head> elem
 
 Define what you want to accomplish with it.
 
-#### Why should you use an <h1> element over a <span> element to display a top level heading?
+#### Why should you use an < h1 > element over a <span> element to display a top level heading?
 
-Search engines do not use <span>, they look specifically for <h1>.
+Search engines do not use < span >, they look specifically for < h1 >.
 
 #### What are the benefits of using semantic tags in our HTML?
 
@@ -76,4 +76,4 @@ Search engines do not use <span>, they look specifically for <h1>.
 
 #### How can you add JavaScript to an HTML document?
 
-By using the <script> element.
+By using the < script > element.
