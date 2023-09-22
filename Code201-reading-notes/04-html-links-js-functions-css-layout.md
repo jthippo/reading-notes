@@ -46,7 +46,8 @@ Function declaration is creating a function; invocation is running or calling th
 
 #### What is the difference between a parameter and an argument?
 
-None, they're the same.
+- Parameter is a variable in the _declaration_ of the function.
+- Argument is the _actual value_ of this variable that gets passed to function.
 
 ### Misc
 

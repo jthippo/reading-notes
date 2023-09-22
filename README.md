@@ -17,6 +17,7 @@
 - [01 Basics of HTML, CSS and JS](./Code201-reading-notes/02-basics-of-HTML-css-js.md)
 - [03 HTML lists, JS control flow and CSS box model](./Code201-reading-notes/03-html-lists-js-control-flow-css-box-model.md)
 - [04 HTML links, JS functions and CSS layout](./Code201-reading-notes/04-html-links-js-functions-css-layout.md)
+- [05 Images, color, text](./Code201-reading-notes/05-images-color-text.md)
 
 ## My name is Mike Foster. Hello.
 
