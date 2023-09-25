@@ -23,13 +23,13 @@ When an object property name is held in a variable. You can't use dot notation t
 
 #### Evaluate the code below. What does the term this refer to and what is the advantage to using this?
 
-_const dog = {_
-_name: 'Spot',_
-_age: 2,_
-_color: 'white with black spots',_
-_humanAge: function ()_{
-*console.log(`${this.name} is ${this.age*7} in human years`);\*
-_}_
+_const dog = {_  
+_name: 'Spot',_  
+_age: 2,_  
+_color: 'white with black spots',_  
+_humanAge: function ()_{  
+*console.log(`${this.name} is ${this.age*7} in human years`);\  
+_}_  
 _}_
 
 THIS = the current object. So this.name is the dog object, keeps things simple.
