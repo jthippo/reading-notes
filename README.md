@@ -18,6 +18,7 @@
 - [03 HTML lists, JS control flow and CSS box model](./Code201-reading-notes/03-html-lists-js-control-flow-css-box-model.md)
 - [04 HTML links, JS functions and CSS layout](./Code201-reading-notes/04-html-links-js-functions-css-layout.md)
 - [05 Images, color, text](./Code201-reading-notes/05-images-color-text.md)
+- [06 Problem domain, objects and the DOM](./Code201-reading-notes/06-problem-domain-objects-and-dom.md)
 
 ## My name is Mike Foster. Hello.
 
