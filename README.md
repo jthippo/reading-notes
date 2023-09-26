@@ -19,6 +19,7 @@
 - [04 HTML links, JS functions and CSS layout](./Code201-reading-notes/04-html-links-js-functions-css-layout.md)
 - [05 Images, color, text](./Code201-reading-notes/05-images-color-text.md)
 - [06 Problem domain, objects and the DOM](./Code201-reading-notes/06-problem-domain-objects-and-dom.md)
+- [07 Object oriented programming and HTML tables](./Code201-reading-notes/07-object-oriented-programming-html-tables.md)
 
 ## My name is Mike Foster. Hello.
 
