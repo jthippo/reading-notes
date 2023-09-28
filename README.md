@@ -21,6 +21,7 @@
 - [06 Problem domain, objects and the DOM](./Code201-reading-notes/06-problem-domain-objects-and-dom.md)
 - [07 Object oriented programming and HTML tables](./Code201-reading-notes/07-object-oriented-programming-html-tables.md)
 - [08 CSS layout](./Code201-reading-notes/08-css-layout.md)
+- [09 Forms and JS events](./Code201-reading-notes/09-forms-and-js-events.md)
 
 ## My name is Mike Foster. Hello.
 
