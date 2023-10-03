@@ -24,6 +24,7 @@
 - [09 Forms and JS events](./Code201-reading-notes/09-forms-and-js-events.md)
 - [10 Debugging](./Code201-reading-notes/10-debugging.md)
 - [11 Audio, video, images](./Code201-reading-notes/11-audio-video-images.md)
+- [12 Chart.js and Canvas](./Code201-reading-notes/12-chartjs-and-canvas.md)
 
 ## My name is Mike Foster. Hello.
 
