@@ -25,7 +25,8 @@
 - [10 Debugging](./Code201-reading-notes/10-debugging.md)
 - [11 Audio, video, images](./Code201-reading-notes/11-audio-video-images.md)
 - [12 Chart.js and Canvas](./Code201-reading-notes/12-chartjs-and-canvas.md)
-- [13 Introduction to Persistence with Local Storage](./Code201-reading-notes/13-introduction-to-persistence-with-local-storage.md.md)
+- [13 Introduction to persistence with local storage](./Code201-reading-notes/13-introduction-to-persistence-with-local-storage.md.md)
+- [14 CSS transforms, transitions and animations](./Code201-reading-notes/14-css-transforms-transitions-and-animations.md)
 
 ## My name is Mike Foster. Hello.
 
