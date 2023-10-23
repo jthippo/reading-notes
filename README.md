@@ -11,7 +11,7 @@
 - [07 Programming with JS](./Code102-reading-notes/07-programming-with-javascript)
 - [08 Operators and loops](./Code102-reading-notes/08-operators-and-loops)
 
-## Code 102 Intro to Software Development
+## Code 201 Foundations of Software Development
 
 - [01 Class 01 (102 recap)](./Code201-reading-notes/01-class-01)
 - [01 Basics of HTML, CSS and JS](./Code201-reading-notes/02-basics-of-HTML-css-js.md)
@@ -27,6 +27,10 @@
 - [12 Chart.js and Canvas](./Code201-reading-notes/12-chartjs-and-canvas.md)
 - [13 Introduction to persistence with local storage](./Code201-reading-notes/13-introduction-to-persistence-with-local-storage.md.md)
 - [14 CSS transforms, transitions and animations](./Code201-reading-notes/14-css-transforms-transitions-and-animations.md)
+
+## Code 301 Intermediate Software Development
+
+- [01 Introduction to React and components](./Code301-reading-notes/01-introduction-to-react-and-components.md)
 
 ## My name is Mike Foster. Hello.
 
