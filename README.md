@@ -31,6 +31,8 @@
 ## Code 301 Intermediate Software Development
 
 - [01 Introduction to React and components](./Code301-reading-notes/01-introduction-to-react-and-components.md)
+- [02 State and props](./Code301-reading-notes/02-state-and-props.md)
+- [03 Passing functions as props](./Code301-reading-notes/03-passing-functions-as-props.md)
 
 ## My name is Mike Foster. Hello.
 
