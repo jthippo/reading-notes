@@ -24,4 +24,4 @@ _} else {_
 _console.log(false);_
 _}_
 
-let answer = ((x===y) ? console.log(answer) : console.log(answer))
+x === y ? console.log(true) : console.log(false)
