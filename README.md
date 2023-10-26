@@ -33,6 +33,7 @@
 - [01 Introduction to React and components](./Code301-reading-notes/01-introduction-to-react-and-components.md)
 - [02 State and props](./Code301-reading-notes/02-state-and-props.md)
 - [03 Passing functions as props](./Code301-reading-notes/03-passing-functions-as-props.md)
+- [04 React and forms](./Code301-reading-notes/04-react-and-forms.md)
 
 ## My name is Mike Foster. Hello.
 
